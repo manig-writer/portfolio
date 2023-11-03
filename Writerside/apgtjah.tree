@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="apgtjah" name="A Petsitter's Guide to Juniper and Hemlock"
+                  start-page="Introduction.md">
+
+    <toc-element topic="Introduction.md"/>
+    <toc-element topic="The-Cats.md">
+        <toc-element topic="Juniper.md"/>
+        <toc-element topic="Hemlock.md"/>
+    </toc-element>
+    <toc-element topic="House-rules.md"/>
+    <toc-element topic="Daily-Schedule.md"/>
+    <toc-element topic="How-To.md">
+        <toc-element topic="Feed-and-water.md">
+        </toc-element>
+        <toc-element topic="Treat.md"/>
+        <toc-element topic="Play.md"/>
+        <toc-element topic="Groom.md"/>
+        <toc-element topic="Litter.md"/>
+        <toc-element topic="How-to-clean.md"/>
+    </toc-element>
+</instance-profile>
